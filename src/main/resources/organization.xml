@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<organizations>
+    <organization id="1">
+        <name lang="en">Organization 1</name>
+        <shortName>Org1</shortName>
+        <leader>
+            <lastName lang="en">Кулаков</lastName>
+            <firstName>Дмитрий</firstName>
+            <patronymic>Платонович</patronymic>
+            <position>Инженер</position>
+            <birthDay>1979-10-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </organization>
+    <organization id="2">
+        <name lang="en">Organization 2</name>
+        <shortName>Org2</shortName>
+        <leader>
+            <lastName lang="en">Фомин</lastName>
+            <firstName>Юлиан</firstName>
+            <patronymic>Святославович</patronymic>
+            <position>Аналитик</position>
+            <birthDay>1975-10-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </organization>
+    <organization id="3">
+        <name lang="en">Organization 3</name>
+        <shortName>Org3</shortName>
+        <leader>
+            <lastName lang="en">Кабанов</lastName>
+            <firstName>Вальтер</firstName>
+            <patronymic>Владиславович</patronymic>
+            <position>Менеджер по продажам</position>
+            <birthDay>1979-10-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </organization>
+</organizations>

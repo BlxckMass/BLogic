@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<persons>
+    <person id="1">
+        <lastName lang="en">Кулаков</lastName>
+        <firstName>Дмитрий</firstName>
+        <patronymic>Платонович</patronymic>
+        <position>Инженер</position>
+        <birthDay>06.07.1999</birthDay>
+        <phone>+79999999999</phone>
+    </person>
+    <person>
+        <lastName lang="en">Фомин</lastName>
+        <firstName>Юлиан</firstName>
+        <patronymic>Святославович</patronymic>
+        <position>Аналитик</position>
+        <birthDay>1975-10-21T00:00:00</birthDay>
+        <phone>+79999999999</phone>
+    </person>
+    <person>
+        <lastName lang="en">Кабанов</lastName>
+        <firstName>Вальтер</firstName>
+        <patronymic>Владиславович</patronymic>
+        <position>Менеджер по продажам</position>
+        <birthDay>1979-10-21T00:00:00</birthDay>
+        <phone>+79999999999</phone>
+    </person>
+</persons>

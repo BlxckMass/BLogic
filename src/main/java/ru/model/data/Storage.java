@@ -1,6 +1,7 @@
-package ru.model;
+package ru.model.data;
 
 import ru.exception.DocumentExistsException;
+import ru.model.document.Document;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 package ru.factory;
 
-import ru.model.Document;
+import ru.model.document.Document;
 
 public interface DocumentFactoryInterface {
     String authors = "authors";

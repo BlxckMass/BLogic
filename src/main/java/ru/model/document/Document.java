@@ -1,4 +1,4 @@
-package ru.model;
+package ru.model.document;
 
 import java.util.*;
 
@@ -130,7 +130,7 @@ public abstract class Document implements Comparable<Document> {
 
     @Override
     public String toString() {
-        return "ru.model.Document{" +
+        return "ru.model.document.Document{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", text='" + text + '\'' +

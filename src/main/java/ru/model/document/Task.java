@@ -1,9 +1,15 @@
-package ru.model;
+package ru.model.document;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Task extends Document {
+
+    private Date dateOfIssue;
+    private String periodOfExecution;
+    private String executor;
+    private String controlSign;
+    private String controller;
 
     public Task() {
     }
@@ -24,12 +30,6 @@ public class Task extends Document {
         this.controlSign = controlSign;
         this.controller = controller;
     }
-
-    Date dateOfIssue;
-    String periodOfExecution;
-    String executor;
-    String controlSign;
-    String controller;
 
     public Date getDateOfIssue() {
         return dateOfIssue;

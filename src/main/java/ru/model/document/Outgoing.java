@@ -1,4 +1,4 @@
-package ru.model;
+package ru.model.document;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

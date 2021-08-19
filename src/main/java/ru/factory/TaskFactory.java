@@ -1,9 +1,9 @@
 package ru.factory;
 
 import ru.exception.DocumentExistsException;
-import ru.model.Document;
-import ru.model.Storage;
-import ru.model.Task;
+import ru.model.document.Document;
+import ru.model.data.Storage;
+import ru.model.document.Task;
 
 import java.util.Date;
 import java.util.Random;

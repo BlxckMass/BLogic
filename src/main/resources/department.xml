@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<departments>
+    <department id="1">
+        <name lang="en">Department 1</name>
+        <shortName>Dep1</shortName>
+        <leader>
+            <lastName lang="en">Семенова</lastName>
+            <firstName>Анастасия</firstName>
+            <patronymic>Владимировна</patronymic>
+            <position>Инженер</position>
+            <birthDay>1979-10-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </department>
+    <department id="2">
+        <name lang="en">Department 2</name>
+        <shortName>Dep2</shortName>
+        <leader>
+            <lastName lang="en">Васильев</lastName>
+            <firstName>Руслан</firstName>
+            <patronymic>Дмитриевич</patronymic>
+            <position>Инженер</position>
+            <birthDay>1979-11-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </department>
+    <department id="1">
+        <name lang="en">Department 3</name>
+        <shortName>Dep3</shortName>
+        <leader>
+            <lastName lang="en">Астахов</lastName>
+            <firstName>Степан</firstName>
+            <patronymic>Михайлович</patronymic>
+            <position>Инженер</position>
+            <birthDay>1979-12-21T00:00:00</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers>numbers1, numbers2, numbers3</phoneNumbers>
+    </department>
+</departments>
